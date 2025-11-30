@@ -1,7 +1,7 @@
 import socket
 import struct
 
-BALANCER_HOST = "10.0.20.1"  
+BALANCER_HOST = "10.0.10.1"  
 BALANCER_PORT = 8080           
 
 REQ_STRUCT = "iii"   # 3 enteros
